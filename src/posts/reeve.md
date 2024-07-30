@@ -10,10 +10,10 @@ isComboEnabled: true
 isSplit: true
 isTapDanceEnabled: false
 keybindings: []
-keyboard: Kiwikiu
+keyboard: ʻākohekohe
 keyCount: 26
-keymapImage:
-keymapUrl:
+keymapImage: 
+keymapUrl: https://github.com/grassfedreeve/zmk-config-akohekohe
 languages: English
 layerCount: 4
 OS: ["Linux", "Windows"]
